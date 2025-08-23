@@ -9,7 +9,7 @@ It includes code examples, concepts, and interview-focused problems for building
 
 - ✅ Classes and Objects
 - ✅ Constructors and Destructors
-- ✅ Inheritance (Single, Multi-level, Hierarchical, Multiple)
+- ✅ Inheritance (Single, Multi-level, Hierarchical, Multiple) 
 - ✅ Polymorphism (Compile-time and Run-time)
 - ✅ Function Overloading and Overriding
 - ✅ Friend Functions
