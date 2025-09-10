@@ -14,7 +14,7 @@ It includes code examples, concepts, and interview-focused problems for building
 - ✅ Function Overloading and Overriding
 - ✅ Friend Functions
 - ✅ Virtual Functions
-- ✅ Deep Copy vs Shallow Copy
+- ✅ Deep Copy vs Shallow Copy 
 - ✅ Encapsulation and Abstraction
 - ✅ Access Specifiers (`private`, `public`, `protected`)
 - ✅ Real-world Examples of OOP 
